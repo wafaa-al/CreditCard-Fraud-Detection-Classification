@@ -15,7 +15,7 @@ This system will be useful for people who use credit cards and banks to keep the
 
 
 ### Data Description
-The dataset [CreditCardFraud] (https://www.kaggle.com/mlg-ulb/creditcardfraud) contains transactions made by credit cards in September 2013 by European cardholders.
+The dataset [CreditCardFraud](https://www.kaggle.com/mlg-ulb/creditcardfraud) contains transactions made by credit cards in September 2013 by European cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 Features:
 * Time: Number of seconds elapsed between this transaction and the first transaction in the dataset
