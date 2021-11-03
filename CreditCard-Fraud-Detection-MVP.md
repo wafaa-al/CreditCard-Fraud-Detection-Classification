@@ -19,15 +19,25 @@ The dataset [CreditCardFraud] (https://www.kaggle.com/mlg-ulb/creditcardfraud)
  contains transactions made by credit cards in September 2013 by European cardholders.where we have 284,807 transactions with 29 features.
 ### Modeling workflow:
 1- EDA, to find anomalies in the data such as duplicates, Nulls and outliers.
-2- Feature engineering to enhance the model
+</br>
+2- Feature engineering to enhance the model.
+</br>
 3- Data split into training, validation and testing.
+</br>
 4- Dealing with imalance data by: SMOTE and ADASYN methods.
+</br>
 5- The following models are used:
+</br>
 5.1) Logstic regression (Baseline)
+</br>
 5.2) SVM
+</br>
 5.3) Random forest
+</br>
 5.4) XGboost
+</br>
 5.5) Decision trees
+
 
 ### Finding:
 <img src="https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/images/modelingf1.PNG" width="500"/> 
