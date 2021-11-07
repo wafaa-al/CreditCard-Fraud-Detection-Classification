@@ -48,6 +48,7 @@ The dataset [CreditCardFraud] (https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 - The four models showen in above gragh is to distinguish between Froud and Valid transactions with the imbalanced classes.
 </br>
+
 ### Future Work:
 1- Try new models and choose the best F1 score.
 </br>
