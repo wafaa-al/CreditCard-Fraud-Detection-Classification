@@ -12,9 +12,9 @@ This project will serve to Classify of fraudulent credit card transactions.
 - [Images folder](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/tree/main/images)
 - [Proposal.](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/CreditCard-Fraud-Proposal.md)
 - [MVP.](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/CreditCard-Fraud-Detection-MVP.md)
-- [Slides.](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/CreditCard Fraud Detection-Slides.pdf)
-- [Notebook.](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/CreditCard-Fraud-Detection-code.ipynb)
-- [Final Report.](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/CreditCard-Fraud-Detection-Writeup.md)
+- [Slides.](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/CreditCard%20Fraud%20Detection-Slides.pdf)
+- [Notebook.](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/CreditCard%20Fraud%20Detection-code.ipynb)
+- [Final Report.](https://github.com/Wafaa-Alharbi/CreditCard-Fraud-Detection-Classification/blob/main/CreditCard%20Fraud%20Detection-Writeup.md)
 
 
 
